@@ -256,7 +256,7 @@ footer { padding-bottom: 30px; }
   .subheader { height: 60px; }
   .subheader_number { font-size: 12px; text-transform: uppercase; }
   .subheader_official { display: none; }
-  .subheader_btn { margin-top: 5px; width: 110px; height: 20px; font-size: 10px; }
+  .subheader_btn { margin-top: 5px; width: 110px; height: 20px; font-size: 8px; }
   .promo { min-height: 400px; padding: 115px 0 35px; }
   .promo_header { font-size: 30px; line-height: normal; }
   .promo_subheader { margin-top: 20px; font-size: 20px; line-height: normal; }
